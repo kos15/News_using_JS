@@ -6,21 +6,21 @@ its a free public API for latest new ...
 
 # Create Your Own Version
 Go create your own version of website by simply cloning this repo
-
 Or by making a fork request and do some of the changes in navigation bar 
-
 Or inside DOM 
 
 # Note:
 Use your own API key by simply registering to the newsapi.org
+Registration is totally free and you get 500 request/day on free account
+Also paid version is available with 500 request/day free and 1.8$/1000 request(other than 500 free request)
 
-Registration is totally free
-
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
+You can also try for another API i.e. https://contextualweb.io
+it gives much more free request as compare to the newsapi.org
+contextualweb gives 10,000 free request/month and charges 0.5$/1000 request(other than 10,000 free request)
 
 ---
 
-## Example (Optional)
+## Canges to be made
 
 ```javascript
 // how to change API Key inside the project
@@ -40,4 +40,4 @@ var category = `general`
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/kos15/News_using_JS`
+- Clone this repo to your local machine using `https://github.com/kos15/News_using_JS.git`
