@@ -28,7 +28,7 @@ contextualweb gives 10,000 free request/month and charges 0.5$/1000 request(othe
 console.log("This is a demo project")
 
 //just replace your API key with the value provided in backticks
-let apiKey = `28379b880b4947809a6b0366c5892f65`;
+let apiKey = `28379b880b4947809a6b0366********`;
 
 var country = `in`;
 
