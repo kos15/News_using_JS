@@ -41,3 +41,6 @@ var category = `general`
 ### Clone
 
 - Clone this repo to your local machine using `https://github.com/kos15/News_using_JS.git`
+
+### Review
+- Zlite147 : Good Implemention Of JS
